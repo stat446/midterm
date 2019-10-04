@@ -3,7 +3,7 @@ title: |
     | STAT 446: Midterm Exam
     | Due: Friday October 11 at 11:59 PM
     | Name:
-output: html_document 
+output: pdf_document 
 ---
 
 ```{r setup, include=FALSE}
